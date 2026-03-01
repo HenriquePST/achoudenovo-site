@@ -504,9 +504,7 @@ footer a { color: var(--orange); text-decoration: none; }
 // CONFIGURAÇÃO — altere aqui
 // ─────────────────────────────────────────────────────────────────────────────
 const CONFIG = {
-  // URL raw do products.json no seu repositório GitHub
-  // Formato: https://raw.githubusercontent.com/SEU_USER/SEU_REPO/main/products.json
-  dataUrl:     'products.json',  // local para testes; mude para URL raw do GitHub em prod
+  dataUrl:      'https://raw.githubusercontent.com/henriquepst/achoudenovo-site/main/products.json',
   instagramUrl: 'https://instagram.com/achoudenovo',
   perfilNome:   '@achoudenovo',
 };
@@ -570,7 +568,7 @@ function renderProducts() {
     return `<a href="${p.url}" target="_blank" rel="noopener" class="card" style="animation-delay:${delay}ms">
       <div class="card-img-wrap">
         ${p.img
-          ? `<img src="${p.img}" alt="${p.name}" loading="lazy" onerror="this.parentNode.innerHTML='<div class=\'card-img-placeholder\'>🛍️</div>'">`
+          ? `<img src="${p.img}" alt="${p.name}" loading="lazy" onerror="this.style.display='none';this.parentNode.insertAdjacentHTML('beforeend','<div class=&quot;card-img-placeholder&quot;>🛍️</div>')">`
           : `<div class="card-img-placeholder">🛍️</div>`
         }
         ${hasBadge ? `<div class="badge-discount">-${p.discount}%</div>` : ''}
