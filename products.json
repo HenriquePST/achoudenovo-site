@@ -1,0 +1,27 @@
+{
+  "updated": "2026-03-01T00:00:00Z",
+  "products": [
+    {
+      "id": "demo1",
+      "name": "Conjunto Bicolor Fitness Zero Transparência",
+      "price": 3990,
+      "originalPrice": 7990,
+      "discount": 50,
+      "category": "Fitness",
+      "img": "https://down-br.img.susercontent.com/file/sg-11134201-7rd5h-m0example",
+      "url": "https://s.shopee.com.br/DEMO1",
+      "postedAt": "2026-03-01T10:00:00Z"
+    },
+    {
+      "id": "demo2",
+      "name": "Legging Puma Run Favorite Feminina",
+      "price": 3199,
+      "originalPrice": 29990,
+      "discount": 89,
+      "category": "Fitness",
+      "img": "https://down-br.img.susercontent.com/file/sg-11134201-7rd5h-m0example2",
+      "url": "https://s.shopee.com.br/DEMO2",
+      "postedAt": "2026-03-01T09:00:00Z"
+    }
+  ]
+}
