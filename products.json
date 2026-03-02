@@ -1,6 +1,17 @@
 {
-  "updated": "2026-03-02T13:02:22.788Z",
+  "updated": "2026-03-02T13:02:37.124Z",
   "products": [
+    {
+      "id": "9511754133",
+      "name": "Creatina Max Titanium 300g Pura",
+      "price": 5500,
+      "originalPrice": 17742,
+      "discount": 69,
+      "category": "",
+      "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/9511754133.jpg",
+      "url": "https://s.shopee.com.br/3LLmyRM2wT",
+      "postedAt": "2026-03-02T13:02:26.528Z"
+    },
     {
       "id": "9212570285",
       "name": "Creatina Monohidratada 1kg 100% Pura Importada Soldiers Nutrition Suplemento Performance Muscular Força",
@@ -44,17 +55,6 @@
       "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/24392792938.jpg",
       "url": "https://s.shopee.com.br/3qI3ZMK8va",
       "postedAt": "2026-03-02T13:00:40.001Z"
-    },
-    {
-      "id": "9511754133",
-      "name": "Creatina Max Titanium 300g Pura",
-      "price": 5500,
-      "originalPrice": 17742,
-      "discount": 69,
-      "category": "",
-      "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/9511754133.jpg",
-      "url": "https://s.shopee.com.br/3LLmyRM2wT",
-      "postedAt": "2026-03-02T13:00:24.371Z"
     },
     {
       "id": "22198181219",
