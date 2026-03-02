@@ -1,6 +1,17 @@
 {
-  "updated": "2026-03-02T13:24:02.974Z",
+  "updated": "2026-03-02T13:24:22.433Z",
   "products": [
+    {
+      "id": "58251080005",
+      "name": "Sanduicheira Elétrica Cadence SAN400 750W Preto",
+      "price": 10999,
+      "originalPrice": 18031,
+      "discount": 39,
+      "category": "",
+      "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/58251080005.jpg",
+      "url": "https://s.shopee.com.br/3VfDCP1fPH",
+      "postedAt": "2026-03-02T13:24:08.391Z"
+    },
     {
       "id": "28290146896",
       "name": "Sanduicheira Grill 3 Em 1 Oliver Home Brunch Time Antiaderente - OliverHome",
