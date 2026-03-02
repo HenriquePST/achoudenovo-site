@@ -1,6 +1,17 @@
 {
-  "updated": "2026-03-02T13:24:22.433Z",
+  "updated": "2026-03-02T13:24:39.506Z",
   "products": [
+    {
+      "id": "23097612886",
+      "name": "Kit Lancheira Stitch Volta às Aulas 3 Potes 1 Sanduicheira 1 Garrafa Plasútil",
+      "price": 3690,
+      "originalPrice": 6709,
+      "discount": 45,
+      "category": "",
+      "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/23097612886.jpg",
+      "url": "https://s.shopee.com.br/qeS1VBop1",
+      "postedAt": "2026-03-02T13:24:26.667Z"
+    },
     {
       "id": "58251080005",
       "name": "Sanduicheira Elétrica Cadence SAN400 750W Preto",
