@@ -1,6 +1,17 @@
 {
-  "updated": "2026-03-02T13:00:34.162Z",
+  "updated": "2026-03-02T13:00:51.152Z",
   "products": [
+    {
+      "id": "24392792938",
+      "name": "Kit Nutri Whey Pote 900g + Creatina CarboFuel 300g + Coqueteleira",
+      "price": 16399,
+      "originalPrice": 19999,
+      "discount": 18,
+      "category": "",
+      "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/24392792938.jpg",
+      "url": "https://s.shopee.com.br/3qI3ZMK8va",
+      "postedAt": "2026-03-02T13:00:40.001Z"
+    },
     {
       "id": "9511754133",
       "name": "Creatina Max Titanium 300g Pura",
