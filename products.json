@@ -1,6 +1,17 @@
 {
-  "updated": "2026-03-02T01:16:15.630Z",
+  "updated": "2026-03-02T02:06:49.818Z",
   "products": [
+    {
+      "id": "23291901024",
+      "name": "Jogo de Taça Diamante Copo Vidro Transparente Taças Abacaxi Gourmet Bico De Jaca 330ml",
+      "price": 1649,
+      "originalPrice": 4022,
+      "discount": 59,
+      "category": "",
+      "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/23291901024.jpg",
+      "url": "https://s.shopee.com.br/4qAa242W6o",
+      "postedAt": "2026-03-02T02:06:32.519Z"
+    },
     {
       "id": "22599305367",
       "name": "Conjunto Infantil Copa Do Mundo Brasil Roupas Esportivas",
