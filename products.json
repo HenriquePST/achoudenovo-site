@@ -1,6 +1,17 @@
 {
-  "updated": "2026-03-02T13:01:24.059Z",
+  "updated": "2026-03-02T13:02:22.788Z",
   "products": [
+    {
+      "id": "9212570285",
+      "name": "Creatina Monohidratada 1kg 100% Pura Importada Soldiers Nutrition Suplemento Performance Muscular Força",
+      "price": 7590,
+      "originalPrice": 25300,
+      "discount": 70,
+      "category": "",
+      "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/9212570285.jpg",
+      "url": "https://s.shopee.com.br/2VmfyuPDdC",
+      "postedAt": "2026-03-02T13:02:11.785Z"
+    },
     {
       "id": "58203097971",
       "name": "Kit 2 Creatinas 100% PURA BlackSkull Alta Performance Atividades Físicas Academia 600g",
@@ -44,17 +55,6 @@
       "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/9511754133.jpg",
       "url": "https://s.shopee.com.br/3LLmyRM2wT",
       "postedAt": "2026-03-02T13:00:24.371Z"
-    },
-    {
-      "id": "9212570285",
-      "name": "Creatina Monohidratada 1kg 100% Pura Importada Soldiers Nutrition Suplemento Performance Muscular Força",
-      "price": 7590,
-      "originalPrice": 25300,
-      "discount": 70,
-      "category": "",
-      "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/9212570285.jpg",
-      "url": "https://s.shopee.com.br/2VmfyuPDdC",
-      "postedAt": "2026-03-02T13:00:07.838Z"
     },
     {
       "id": "22198181219",
