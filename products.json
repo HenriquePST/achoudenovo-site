@@ -1,6 +1,17 @@
 {
-  "updated": "2026-03-02T02:06:49.818Z",
+  "updated": "2026-03-02T02:07:11.612Z",
   "products": [
+    {
+      "id": "22096391501",
+      "name": "Jogo de Taças Diamante Copo Vidro Transparente Bico De Jaca 330ml",
+      "price": 2880,
+      "originalPrice": 6261,
+      "discount": 54,
+      "category": "",
+      "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/22096391501.jpg",
+      "url": "https://s.shopee.com.br/4fr9pl39Rn",
+      "postedAt": "2026-03-02T02:06:57.935Z"
+    },
     {
       "id": "23291901024",
       "name": "Jogo de Taça Diamante Copo Vidro Transparente Taças Abacaxi Gourmet Bico De Jaca 330ml",
