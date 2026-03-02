@@ -1,4 +1,16 @@
 {
-  "updated": "2026-03-01T00:00:00Z",
-  "products": []
+  "updated": "2026-03-02T00:46:54.113Z",
+  "products": [
+    {
+      "id": "49155617959",
+      "name": "Boné Brasil Copa Do Mundo Selecao Brasileira Aba Curva Ajustavel Dad Had",
+      "price": 4999,
+      "originalPrice": 6943,
+      "discount": 28,
+      "category": "",
+      "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/49155617959.jpg",
+      "url": "https://s.shopee.com.br/4qAZwqfCxa",
+      "postedAt": "2026-03-02T00:46:40.013Z"
+    }
+  ]
 }
