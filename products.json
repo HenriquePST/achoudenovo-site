@@ -1,6 +1,17 @@
 {
-  "updated": "2026-03-02T00:47:09.456Z",
+  "updated": "2026-03-02T01:14:45.829Z",
   "products": [
+    {
+      "id": "22599305367",
+      "name": "Conjunto Infantil Copa Do Mundo Brasil Roupas Esportivas",
+      "price": 3999,
+      "originalPrice": 6450,
+      "discount": 38,
+      "category": "",
+      "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/22599305367.jpg",
+      "url": "https://s.shopee.com.br/5q37AdEqxy",
+      "postedAt": "2026-03-02T01:14:32.122Z"
+    },
     {
       "id": "49155617959",
       "name": "Boné Brasil Copa Do Mundo Selecao Brasileira Aba Curva Ajustavel Dad Had",
