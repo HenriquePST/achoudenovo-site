@@ -1,6 +1,17 @@
 {
-  "updated": "2026-03-02T11:51:46.653Z",
+  "updated": "2026-03-02T13:00:20.337Z",
   "products": [
+    {
+      "id": "9212570285",
+      "name": "Creatina Monohidratada 1kg 100% Pura Importada Soldiers Nutrition Suplemento Performance Muscular Força",
+      "price": 7590,
+      "originalPrice": 25300,
+      "discount": 70,
+      "category": "",
+      "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/9212570285.jpg",
+      "url": "https://s.shopee.com.br/2VmfyuPDdC",
+      "postedAt": "2026-03-02T13:00:07.838Z"
+    },
     {
       "id": "22198181219",
       "name": "Bolsa Mala Esportiva Mochila Costa Transversal Fitness Treino Futebol Academia impermeável",
