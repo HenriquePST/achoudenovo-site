@@ -1,6 +1,17 @@
 {
-  "updated": "2026-03-02T13:03:22.154Z",
+  "updated": "2026-03-02T13:24:02.974Z",
   "products": [
+    {
+      "id": "28290146896",
+      "name": "Sanduicheira Grill 3 Em 1 Oliver Home Brunch Time Antiaderente - OliverHome",
+      "price": 6990,
+      "originalPrice": 14872,
+      "discount": 53,
+      "category": "",
+      "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/28290146896.jpg",
+      "url": "https://s.shopee.com.br/3fydOi124G",
+      "postedAt": "2026-03-02T13:23:50.513Z"
+    },
     {
       "id": "58203097971",
       "name": "Kit 2 Creatinas 100% PURA BlackSkull Alta Performance Atividades Físicas Academia 600g",
