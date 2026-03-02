@@ -1,6 +1,17 @@
 {
-  "updated": "2026-03-02T15:04:03.123Z",
+  "updated": "2026-03-02T15:04:19.862Z",
   "products": [
+    {
+      "id": "20241616500",
+      "name": "Suporte para Celular Smartphone com Apoio no Retrovisor Extensível Giro 360º",
+      "price": 1899,
+      "originalPrice": null,
+      "discount": 0,
+      "category": "",
+      "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/20241616500.jpg",
+      "url": "https://s.shopee.com.br/9zsh2xj69h",
+      "postedAt": "2026-03-02T15:04:07.472Z"
+    },
     {
       "id": "23897301288",
       "name": "KIT Teclado + Mouse Via Bluetooth Compacto e Design Moderno - Compatível Com Smartphones/Notebook/Tablet",
