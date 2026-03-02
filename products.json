@@ -1,6 +1,17 @@
 {
-  "updated": "2026-03-02T13:02:54.043Z",
+  "updated": "2026-03-02T13:03:06.333Z",
   "products": [
+    {
+      "id": "29684816571",
+      "name": "WHEY + CREATINA - O COMBO MAIS BARATO INCRÍVEL E SABOROSO DO BRASIL",
+      "price": 4600,
+      "originalPrice": 16429,
+      "discount": 72,
+      "category": "",
+      "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/29684816571.jpg",
+      "url": "https://s.shopee.com.br/2g66BDOaIP",
+      "postedAt": "2026-03-02T13:02:56.261Z"
+    },
     {
       "id": "24392792938",
       "name": "Kit Nutri Whey Pote 900g + Creatina CarboFuel 300g + Coqueteleira",
@@ -44,17 +55,6 @@
       "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/58203097971.jpg",
       "url": "https://s.shopee.com.br/50U0xVFhYx",
       "postedAt": "2026-03-02T13:01:12.133Z"
-    },
-    {
-      "id": "29684816571",
-      "name": "WHEY + CREATINA - O COMBO MAIS BARATO INCRÍVEL E SABOROSO DO BRASIL",
-      "price": 4600,
-      "originalPrice": 16429,
-      "discount": 72,
-      "category": "",
-      "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/29684816571.jpg",
-      "url": "https://s.shopee.com.br/2g66BDOaIP",
-      "postedAt": "2026-03-02T13:00:55.765Z"
     },
     {
       "id": "22198181219",
