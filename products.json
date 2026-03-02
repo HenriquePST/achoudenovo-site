@@ -1,6 +1,17 @@
 {
-  "updated": "2026-03-02T13:03:06.333Z",
+  "updated": "2026-03-02T13:03:22.154Z",
   "products": [
+    {
+      "id": "58203097971",
+      "name": "Kit 2 Creatinas 100% PURA BlackSkull Alta Performance Atividades Físicas Academia 600g",
+      "price": 7980,
+      "originalPrice": 12871,
+      "discount": 38,
+      "category": "",
+      "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/58203097971.jpg",
+      "url": "https://s.shopee.com.br/50U0xVFhYx",
+      "postedAt": "2026-03-02T13:03:09.685Z"
+    },
     {
       "id": "29684816571",
       "name": "WHEY + CREATINA - O COMBO MAIS BARATO INCRÍVEL E SABOROSO DO BRASIL",
@@ -44,17 +55,6 @@
       "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/9212570285.jpg",
       "url": "https://s.shopee.com.br/2VmfyuPDdC",
       "postedAt": "2026-03-02T13:02:11.785Z"
-    },
-    {
-      "id": "58203097971",
-      "name": "Kit 2 Creatinas 100% PURA BlackSkull Alta Performance Atividades Físicas Academia 600g",
-      "price": 7980,
-      "originalPrice": 12871,
-      "discount": 38,
-      "category": "",
-      "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/58203097971.jpg",
-      "url": "https://s.shopee.com.br/50U0xVFhYx",
-      "postedAt": "2026-03-02T13:01:12.133Z"
     },
     {
       "id": "22198181219",
