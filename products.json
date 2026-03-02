@@ -1,6 +1,17 @@
 {
-  "updated": "2026-03-02T13:24:39.506Z",
+  "updated": "2026-03-02T15:04:03.123Z",
   "products": [
+    {
+      "id": "23897301288",
+      "name": "KIT Teclado + Mouse Via Bluetooth Compacto e Design Moderno - Compatível Com Smartphones/Notebook/Tablet",
+      "price": 3499,
+      "originalPrice": 10934,
+      "discount": 68,
+      "category": "",
+      "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/23897301288.jpg",
+      "url": "https://s.shopee.com.br/8V3tGCooCM",
+      "postedAt": "2026-03-02T15:03:50.777Z"
+    },
     {
       "id": "23097612886",
       "name": "Kit Lancheira Stitch Volta às Aulas 3 Potes 1 Sanduicheira 1 Garrafa Plasútil",
