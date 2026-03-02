@@ -1,6 +1,17 @@
 {
-  "updated": "2026-03-02T15:04:54.298Z",
+  "updated": "2026-03-02T15:05:13.685Z",
   "products": [
+    {
+      "id": "23299192993",
+      "name": "Suporte Celular Metálico Premium resistente com Base Giratória 360º para Smartphones e Tablets Universal",
+      "price": 399,
+      "originalPrice": 1995,
+      "discount": 80,
+      "category": "",
+      "img": "https://raw.githubusercontent.com/HenriquePST/achoudenovo-site/main/images/23299192993.jpg",
+      "url": "https://s.shopee.com.br/15L8aLARw",
+      "postedAt": "2026-03-02T15:05:00.799Z"
+    },
     {
       "id": "22698554676",
       "name": "7 Kits Suporte de Peito Ajustável | Smartphone + GoPro | Antivibração | Motocicleta, Bike e Esportes Extremos",
